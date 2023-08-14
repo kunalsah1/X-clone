@@ -1,2 +1,2 @@
 It is just X's login and signup interface clone 
-Made using - React and Tailwind
+Made using - React, Tailwind and some custom css
